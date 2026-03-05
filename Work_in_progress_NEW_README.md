@@ -1,4 +1,4 @@
-# Sample and Hold System using Switched Capacitor Amplifier
+# Successive-approximation Analog-to-Digital Converter
 
 **Implemented and verified the circuit using TSMC 40nm Process Design Kit in Cadence Virtuoso.**
 
