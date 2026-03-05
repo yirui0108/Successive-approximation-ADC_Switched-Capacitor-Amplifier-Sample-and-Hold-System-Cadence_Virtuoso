@@ -2,6 +2,9 @@
 
 **Implemented and verified the circuit using TSMC 40nm Process Design Kit in Cadence Virtuoso.**
 
+<img width="1538" height="673" alt="Screenshot 2026-03-01 051423" src="https://github.com/user-attachments/assets/dbf6e9c0-a1a4-4960-84a2-58ac34c45571" />
+
+
 ## Project Context & Scope
 
 This repository documents an ***independent study into mixed-signal IC design***, undertaken during my sophomore year (Year 2). As an autodidactic initiative bridging the gap between fundamental coursework, and mixed-signal topologies (for example, switched-capacitor circuits) taught in EE4323. This project represents a fully independent effort, executed without academic supervision, to explore the complexities of analog-digital interfaces.
